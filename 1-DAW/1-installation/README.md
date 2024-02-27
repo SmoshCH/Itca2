@@ -25,8 +25,11 @@ Colocar archivos .php en una carpeta y luego poner esa carpeta en XAMPP > htdocs
 Disco Local (C:)> xampp> htdocs> aquí alojaremos la carpeta con los archivos .php a correr.<br>
 C:\xampp\htdocs\ <-- (ruta)<br>
 Ejemplo: C:\xampp\htdocs\prueba  <b>(NOTA: php correra por defecto el archivo index.php)</b><br>
+![image](https://github.com/SmoshCH/Itca2/assets/84145465/eabc1ffa-9492-40bf-ace5-de3f45945eeb)
 - Paso 3.<br>
 Mostrar archivos en navegador web.<br>
 Escribimos en el navegador localhost/Nombre de carpeta donde se encuentra el archivo.<br>
-Ejemplo: localhost/pruebas/<br>
+Ejemplo: localhost/prueba/<br>
+![image](https://github.com/SmoshCH/Itca2/assets/84145465/896d8548-71d2-438a-a719-1cabcd7e6df7)
+
 
