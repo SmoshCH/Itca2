@@ -8,6 +8,7 @@ Aquí encontraremos links importantes: [OverApi](https://overapi.com/php), <br>
 
 ### Comentarios
 `// Este es un comentario de una sola línea en PHP`
+
 `/*
    Este es un comentario de múltiples líneas.
    Puedes escribir varias líneas de comentarios aquí.
