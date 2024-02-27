@@ -15,7 +15,7 @@ Aquí encontraremos links importantes: [OverApi](https://overapi.com/php), <br>
 `// Este es un comentario de una sola línea en PHP`
 
 `/*`
-   Este es un comentario de múltiples líneas. 
+   Este es un comentario de múltiples líneas. <br>
    Puedes escribir varias líneas de comentarios aquí.
 `*/`
 
