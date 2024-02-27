@@ -15,17 +15,18 @@ Aquí encontraremos links importantes: [OverApi](https://overapi.com/php), <br>
 `// Este es un comentario de una sola línea en PHP`
 
 `/*
-   Este es un comentario de múltiples líneas. 
-   Puedes escribir varias líneas de comentarios aquí.
+   Este es un comentario de múltiples líneas. `
+
+`   Puedes escribir varias líneas de comentarios aquí.
 */`
 
 ### Variables
-`
-$Entero = 25;
-$Decimal = 10.99;
-$String = "Nombre";
-$Boleano = true;
-`
+
+`$Entero = 25;`
+`$Decimal = 10.99;`
+`$String = "Nombre";`
+`$Boleano = true;`
+
 
 
 
