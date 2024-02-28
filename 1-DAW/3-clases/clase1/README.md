@@ -8,7 +8,8 @@ Guía de clase.<br>
 
 ### Ejercicios de clase.
 
-- Ejercicio 1. <br> 
+- Ejercicio 1. <br>
+- 
 ```php
 <?php
     $edad; 
@@ -16,6 +17,19 @@ Guía de clase.<br>
 ```
 <br>
 - Ejercicio 2. <br>
+
+```php
+<?php
+    $varEntero = 5;
+    $varDouble = 3.14;
+    $varBool = true; 
+    $varString = "Soy un texto";
+    $varNull = null;
+?>
+```
+<br>
+
+- Ejercicio 3. <br>
 
 ```php
 <?php
@@ -34,10 +48,35 @@ Guía de clase.<br>
 ```
 <br>
 
-
-
-
-
-
-
 ### Tarea.
+
+- Ejercicio 1. <br>
+
+```php
+<?php
+    $dia = 20; 
+    $mes = "Febrero";
+    $año = 2024;
+
+    echo "Hoy es ".$dia." de ".$mes." del año ".$año;
+
+?>
+```
+<br>
+
+- Ejercicio 2. <br>
+
+```php
+<?php
+    $var1 = 1; 
+    $var2 = 2;
+
+    echo "Si se suma ".$var2." + ".$var1." es: ".$var1+$var2."<br>";
+    echo "Si se resta ".$var2." - ".$var1." es: ".$var2-$var1."<br>";
+    echo "Si se multiplica ".$var2." * ".$var1." es: ".$var2*$var1."<br>";
+    echo "Nota: ".$var2." y ".$var1." son variables.";  
+?>
+```
+<br>
+
+
