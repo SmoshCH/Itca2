@@ -1,7 +1,7 @@
 # Installation and more
 
 1. Instalación de XAMPP [XAMPP](https://www.apachefriends.org/es/index.html)<br>
-Instalar XAMP desde su página, y dar click en siguiente a todo.<br>
+Instalar XAMPP desde su página, y dar click en siguiente a todo.<br>
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/a87560d6-bccf-4993-b41d-dc613f7f8df6)
 
 2. Instalar editor de código. Visual Studio Code [Visual Studio Code](https://code.visualstudio.com/)<br>
