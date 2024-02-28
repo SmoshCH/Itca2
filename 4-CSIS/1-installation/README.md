@@ -2,7 +2,7 @@
 
 # 1 - Instalación de virtual box 
 
-1. Instalación de VirtualBox [virtual box](https://www.virtualbox.org/wiki/Downloads)<br>
+1. Instalación de VirtualBox [virtual box](https://www.virtualbox.org/wiki/Downloads), [video de referencia](https://www.youtube.com/watch?v=UC843sLW3As&ab_channel=FacultadAutodidacta)<br>
 Instalar VirtualBox desde su página, y dar click en siguiente a todo.<br>
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/9c5b34b9-d101-452d-95fd-90c45a643f79)
 
