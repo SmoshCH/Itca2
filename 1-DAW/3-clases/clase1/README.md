@@ -16,9 +16,12 @@ Guía de clase.<br>
 <br>
 - Ejercicio 2. <br>
 
+```php
 <?php
     $edad; 
 ?>
+```
+
 
 <br>
 
