@@ -9,13 +9,14 @@ Guía de clase.<br>
 ### Ejercicios de clase.
 
 - Ejercicio 1. <br>
-- 
+ 
 ```php
 <?php
     $edad; 
 ?>
 ```
 <br>
+
 - Ejercicio 2. <br>
 
 ```php
