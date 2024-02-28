@@ -35,6 +35,7 @@ $Nulo = null;
 ### Impresión en pantalla 
 ```php
 $nombre = "Til";
+
 echo "Hola, $nombre"; // Imprime: Hola, Til
 echo "Nombre: ".$nombre."<br>"; //Imprime: Nombre: Til. (y luego da salto de línea.)
 ```
