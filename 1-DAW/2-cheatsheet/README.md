@@ -7,9 +7,9 @@ Aquí encontraremos links importantes: [OverApi](https://overapi.com/php), <br>
 # Sintaxis básica de PHP.
 
 ### Etiquetas de apertura y cierre
-`<?php
-    // Código PHP aquí
-?>`
+`<?php`
+    // Código PHP aquí<br>
+`?>`
 
 ### Comentarios
 `// Este es un comentario de una sola línea en PHP`
