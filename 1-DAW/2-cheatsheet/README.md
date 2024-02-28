@@ -24,31 +24,37 @@ Aquí encontraremos links importantes: [OverApi](https://overapi.com/php), <br>
 
 ### Variables
 
-`$Entero = 25;`<br>
-`$Decimal = 10.99;`<br>
-`$String = "Nombre";`<br>
-`$Boleano = true;`<br>
-`$Nulo = null;`
-
+```php
+$Entero = 25;
+$Decimal = 10.99;
+$String = "Nombre";
+$Boleano = true;
+$Nulo = null;
+```
 
 ### Impresión en pantalla 
-`$nombre = "Til";`<br>
-`echo "Hola, $nombre"; // Imprime: Hola, Til`<br>
-`echo "Nombre: ".$nombre."<br>"; //Imprime: Nombre: Til. (y luego da salto de línea.)`<br>
+```php
+$nombre = "Til";
+echo "Hola, $nombre"; // Imprime: Hola, Til
+echo "Nombre: ".$nombre."<br>"; //Imprime: Nombre: Til. (y luego da salto de línea.)
+```
 
 ### Arrays
-`$colores = array("rojo", "verde", "azul");`
+```php
+$colores = array("rojo", "verde", "azul");
+```
 
 ### Objetos
-`class Persona {`<br>
-`    public $nombre;`<br>
-`    public $edad;`<br>
-`}`<br>
-<br>
-`$persona = new Persona();`<br>
-`$persona->nombre = "Til";`<br>
-`$persona->edad = 80;`<br>
+```php
+class Persona {
+    public $nombre;
+    public $edad;
+}
 
+$persona = new Persona();
+$persona->nombre = "Til";
+$persona->edad = 80;
+```
 
 
 
