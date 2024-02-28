@@ -25,6 +25,8 @@ Aquí encontraremos links importantes: [OverApi](https://overapi.com/php), <br>
 `$Decimal = 10.99;`<br>
 `$String = "Nombre";`<br>
 `$Boleano = true;`<br>
+`$Nulo = null;`
+
 
 ### Impresión en pantalla 
 `$nombre = "Til";`<br>
