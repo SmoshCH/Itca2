@@ -96,7 +96,6 @@ Fin de proceso de instalación de linux.
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/8afbd37f-a504-4b4b-af2e-4f93b397a2db)
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/995f7ceb-3b74-4680-902b-ed812c96a573)
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/345439c1-64fc-421b-86e3-9b3853e367a3)
-![image](https://github.com/SmoshCH/Itca2/assets/84145465/5a6e0a9a-af0e-47b1-965c-5f59a3c23252)
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/4fe4f07d-6807-4646-a4f6-e906b8f5561d)
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/b9fe281f-041b-44c7-a348-9ef48c80a133)
 
