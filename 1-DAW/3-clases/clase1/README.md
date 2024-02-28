@@ -59,7 +59,7 @@ Guía de clase.<br>
     $mes = "Febrero";
     $año = 2024;
 
-    echo "Hoy es ".$dia." de ".$mes." del año ".$año;
+    echo "Hoy es ".$dia." de ".$mes." del año ".$año; //Hoy es 20 de Febrero del 2024 
 
 ?>
 ```
@@ -72,10 +72,10 @@ Guía de clase.<br>
     $var1 = 1; 
     $var2 = 2;
 
-    echo "Si se suma ".$var2." + ".$var1." es: ".$var1+$var2."<br>";
-    echo "Si se resta ".$var2." - ".$var1." es: ".$var2-$var1."<br>";
-    echo "Si se multiplica ".$var2." * ".$var1." es: ".$var2*$var1."<br>";
-    echo "Nota: ".$var2." y ".$var1." son variables.";  
+    echo "Si se suma ".$var2." + ".$var1." es: ".$var1+$var2."<br>"; //Si se suma 2 + 1 es: 3
+    echo "Si se resta ".$var2." - ".$var1." es: ".$var2-$var1."<br>"; //Si se resta 2 - 1 es: 1
+    echo "Si se multiplica ".$var2." * ".$var1." es: ".$var2*$var1."<br>"; //Si se multiplica 2 * 1 es: 2
+    echo "Nota: ".$var2." y ".$var1." son variables."; //Si se suma 2 + 1 es: 3
 ?>
 ```
 <br>
