@@ -12,19 +12,42 @@ Descarga ISO de Debian desde su página.<br>
 
 3. Creación de máquina virtual con iso Debian.
 - Paso 1.<br>
-Entrar al control panel de XAMP y dar click en start en Apache y MySQL.<br> 
-![image](https://github.com/SmoshCH/Itca2/assets/84145465/d4144359-28aa-4d2c-9078-b36ddc8dab93)
+Entrar a VirtualBox, y dar click en Nueva.<br> 
+![image](https://github.com/SmoshCH/Itca2/assets/84145465/756c0606-ab19-4666-b79b-283200aa2c87)
+
 - Paso 2.<br>
-Colocar archivos .php en una carpeta y luego poner esa carpeta en XAMPP > htdocs.<br>
-Disco Local (C:)> xampp> htdocs> aquí alojaremos la carpeta con los archivos .php a correr.<br>
-C:\xampp\htdocs\ <-- (ruta)<br>
-Ejemplo: C:\xampp\htdocs\prueba  <b>(NOTA: php correra por defecto el archivo index.php)</b><br>
-![image](https://github.com/SmoshCH/Itca2/assets/84145465/eabc1ffa-9492-40bf-ace5-de3f45945eeb)
+LLenar cuadro creación de maquina virtual.<br>
+Agregar imagen ISO.<br>
+Click en omitir instalación desatendida.<br>
+![image](https://github.com/SmoshCH/Itca2/assets/84145465/5f6292a0-69ca-4971-8f81-fdc3df6ee582)
+![image](https://github.com/SmoshCH/Itca2/assets/84145465/a0a01eb7-eebe-4dbd-92f0-e25d85811a8d)
+![image](https://github.com/SmoshCH/Itca2/assets/84145465/46c1c3c9-3a21-4622-8593-d57e830b5da0)
+
+
 - Paso 3.<br>
-Mostrar archivos en navegador web.<br>
-Escribimos en el navegador localhost/Nombre de carpeta donde se encuentra el archivo.<br>
-Ejemplo: localhost/prueba/<br>
-![image](https://github.com/SmoshCH/Itca2/assets/84145465/896d8548-71d2-438a-a719-1cabcd7e6df7)
+Configurar máquina virtual.<br>
+Click en configuración.<br>
+En pantalla y memoria de vídeo aggregar el maximo y click en acelaración 3D.<br>
+Almacenamiento> debian> unidad de estado solido.<br>
+Click en aceptar.
+![image](https://github.com/SmoshCH/Itca2/assets/84145465/d58142da-38da-445f-a104-a174baf0a63c)
+![image](https://github.com/SmoshCH/Itca2/assets/84145465/df3b5df9-3170-4155-ad93-68f417e53921)
+
+- Paso 4.<br>
+Configuración de debian.<br>
+Iniciar máquina virtual.<br>
+Escoger idioma.<br>
+Escoger país.<br>
+.<br>
+.<br>
+.<br>
+
+
+![image](https://github.com/SmoshCH/Itca2/assets/84145465/98e296cc-68ba-4576-b173-929c205a9bc3)
+![image](https://github.com/SmoshCH/Itca2/assets/84145465/dfd769f7-7a52-4d30-aa57-30281502d0a7)
+![image](https://github.com/SmoshCH/Itca2/assets/84145465/f52f6f6a-69f2-4b2e-b442-165984d9eb64)
+
+
 
 
 
