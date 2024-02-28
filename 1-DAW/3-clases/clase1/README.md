@@ -7,9 +7,9 @@ Guía de clase.<br>
 [DAW TDS Guia 1.pdf](https://github.com/SmoshCH/Itca2/files/14434025/DAW.TDS.Guia.1.pdf)<br>
 
 ### Ejercicios de clase.
-```<?php
+`<?php
     $edad; 
-?>```
+?>`
 
 
 
