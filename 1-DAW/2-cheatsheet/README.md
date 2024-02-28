@@ -36,8 +36,8 @@ Aquí encontraremos links importantes: [OverApi](https://overapi.com/php), <br>
 
 ### Objetos
 `class Persona {`<br>
-    `public $nombre;`<br>
-    `public $edad;`<br>
+`    public $nombre;`<br>
+`    public $edad;`<br>
 `}`<br>
 <br>
 `$persona = new Persona();`<br>
