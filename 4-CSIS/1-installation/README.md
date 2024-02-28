@@ -54,9 +54,14 @@ Gestor de paquetes (Alemania).<br>
 Escoger debian org.<br>
 Dejar info de proxy en blanco.<br>
 Responder No en encuesta.<br>
-.<br>
-.<br>
-.<br>
+Escoger GNOME y continuar.<br>
+Click en si para cargador de arranque.<br>
+click en el disco para cargador de arranque.<br>
+Continuar para reiniciar.<br>
+Escoger debian GNU/Linux.<br>
+Fin de proceso de instalación de linux.
+
+
 
 
 
@@ -86,6 +91,14 @@ Responder No en encuesta.<br>
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/132a1211-bd87-4d15-8114-49b2294d391c)
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/f6d4ac57-1b24-4bf2-90ef-4ae2f0e12c14)
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/23509ac1-3f4f-4da6-ae0b-a45e15025cbd)
+![image](https://github.com/SmoshCH/Itca2/assets/84145465/5ed7a2b4-11ce-4497-89d0-ab7b5f0abf63)
+![image](https://github.com/SmoshCH/Itca2/assets/84145465/68c2fb86-2757-44b2-b20b-4cbff5cf96a0)
+![image](https://github.com/SmoshCH/Itca2/assets/84145465/8afbd37f-a504-4b4b-af2e-4f93b397a2db)
+![image](https://github.com/SmoshCH/Itca2/assets/84145465/995f7ceb-3b74-4680-902b-ed812c96a573)
+![image](https://github.com/SmoshCH/Itca2/assets/84145465/345439c1-64fc-421b-86e3-9b3853e367a3)
+![image](https://github.com/SmoshCH/Itca2/assets/84145465/5a6e0a9a-af0e-47b1-965c-5f59a3c23252)
+![image](https://github.com/SmoshCH/Itca2/assets/84145465/b9fe281f-041b-44c7-a348-9ef48c80a133)
+
 
 
 
