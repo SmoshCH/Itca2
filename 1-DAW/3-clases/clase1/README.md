@@ -7,19 +7,19 @@ Guía de clase.<br>
 [DAW TDS Guia 1.pdf](https://github.com/SmoshCH/Itca2/files/14434025/DAW.TDS.Guia.1.pdf)<br>
 
 ### Ejercicios de clase.
-- Ejercicio 1.  
-```
+- Ejercicio 1. <br> 
+```php
 <?php
     $edad; 
 ?>
 ```
 <br>
-- Ejercicio 2. 
-```
+- Ejercicio 2. <br>
+
 <?php
     $edad; 
 ?>
-```
 
+<br>
 
 ### Tarea.
