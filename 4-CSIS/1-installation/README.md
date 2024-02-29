@@ -58,7 +58,8 @@ Escoger particioado guiado.<br>
 Escoger disco y click en continuar.<br>
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/ffa73060-b4f3-4090-9926-dd3497dd4461)
 Escoger todos los ficheros en una partición.<br
-![image](https://github.com/SmoshCH/Itca2/assets/84145465/e0c27ae7-9d8d-4aa3-90ea-51b70865641f)
+![image](https://github.com/SmoshCH/Itca2/assets/84145465/e79a54a3-d1a3-4dec-a251-e8221ea737d1)
+
 
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/aef2dbf6-fbc7-4b56-9a23-8b85543623fc)
 Click en finalizar particionado.<br>
