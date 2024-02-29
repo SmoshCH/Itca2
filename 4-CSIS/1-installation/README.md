@@ -64,25 +64,27 @@ Click en finalizar particionado.<br>
 Click en si escribir cambios a los discos.<br>
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/254904ab-30b9-4df8-8138-e66e5c8e8ccd)
 No analizar medios adicionales.<br>
+![image](https://github.com/SmoshCH/Itca2/assets/84145465/f1c81382-92c0-4483-b3da-9124def8cdea)
+Click no para réplica de red.<br>
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/a8d6f7ed-9584-4a81-aa52-5ea5f3328263)
 
-Click no para réplica de red.<br>
-![image](https://github.com/SmoshCH/Itca2/assets/84145465/04d94595-429c-4067-99f6-d251de114b5b)
 Gestor de paquetes (Alemania).<br>
-![image](https://github.com/SmoshCH/Itca2/assets/84145465/132a1211-bd87-4d15-8114-49b2294d391c)
+![image](https://github.com/SmoshCH/Itca2/assets/84145465/04d94595-429c-4067-99f6-d251de114b5b)
 Escoger deb.debian.org.<br>
-![image](https://github.com/SmoshCH/Itca2/assets/84145465/f6d4ac57-1b24-4bf2-90ef-4ae2f0e12c14)
+![image](https://github.com/SmoshCH/Itca2/assets/84145465/132a1211-bd87-4d15-8114-49b2294d391c)
 Dejar info de proxy en blanco.<br>
-![image](https://github.com/SmoshCH/Itca2/assets/84145465/23509ac1-3f4f-4da6-ae0b-a45e15025cbd)
+![image](https://github.com/SmoshCH/Itca2/assets/84145465/f6d4ac57-1b24-4bf2-90ef-4ae2f0e12c14)
 Responder No en encuesta.<br>
-![image](https://github.com/SmoshCH/Itca2/assets/84145465/5ed7a2b4-11ce-4497-89d0-ab7b5f0abf63)
+![image](https://github.com/SmoshCH/Itca2/assets/84145465/23509ac1-3f4f-4da6-ae0b-a45e15025cbd)
 Escoger Entorno de escritorio,GNOME,utilidades estándar y continuar.<br>
-![image](https://github.com/SmoshCH/Itca2/assets/84145465/68c2fb86-2757-44b2-b20b-4cbff5cf96a0)
+![image](https://github.com/SmoshCH/Itca2/assets/84145465/5ed7a2b4-11ce-4497-89d0-ab7b5f0abf63)
 Click en si para cargador de arranque GRUB.<br>
-![image](https://github.com/SmoshCH/Itca2/assets/84145465/8afbd37f-a504-4b4b-af2e-4f93b397a2db)
+![image](https://github.com/SmoshCH/Itca2/assets/84145465/68c2fb86-2757-44b2-b20b-4cbff5cf96a0)
 click en el disco para instalar cargador de arranque.<br>
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/8afbd37f-a504-4b4b-af2e-4f93b397a2db)
 Continuar para reiniciar.<br>
+![image](https://github.com/SmoshCH/Itca2/assets/84145465/8afbd37f-a504-4b4b-af2e-4f93b397a2db)
+
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/995f7ceb-3b74-4680-902b-ed812c96a573)
 Escoger debian GNU/Linux.<br>
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/4fe4f07d-6807-4646-a4f6-e906b8f5561d)
