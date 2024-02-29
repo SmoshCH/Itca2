@@ -80,11 +80,9 @@ Escoger Entorno de escritorio,GNOME,utilidades estándar y continuar.<br>
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/5ed7a2b4-11ce-4497-89d0-ab7b5f0abf63)
 Click en si para cargador de arranque GRUB.<br>
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/68c2fb86-2757-44b2-b20b-4cbff5cf96a0)
-click en el disco para instalar cargador de arranque.<br>
+Click en el disco para instalar cargador de arranque.<br>
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/8afbd37f-a504-4b4b-af2e-4f93b397a2db)
 Continuar para reiniciar.<br>
-![image](https://github.com/SmoshCH/Itca2/assets/84145465/8afbd37f-a504-4b4b-af2e-4f93b397a2db)
-
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/995f7ceb-3b74-4680-902b-ed812c96a573)
 Escoger debian GNU/Linux.<br>
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/4fe4f07d-6807-4646-a4f6-e906b8f5561d)
