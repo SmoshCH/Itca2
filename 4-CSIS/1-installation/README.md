@@ -28,9 +28,9 @@ Click en omitir instalación desatendida.<br>
 Configurar máquina virtual.<br>
 Click en configuración.<br>
 En pantalla y memoria de vídeo aggregar el maximo y click en acelaración 3D.<br>
-Almacenamiento> debian> unidad de estado solido.<br>
-Click en aceptar.
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/d58142da-38da-445f-a104-a174baf0a63c)
+Almacenamiento> debian> unidad de estado solido.<br>
+Click en aceptar.<br>
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/df3b5df9-3170-4155-ad93-68f417e53921)
 
 - Paso 4.<br>
