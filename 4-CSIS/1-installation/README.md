@@ -36,16 +36,27 @@ Click en aceptar.<br>
 - Paso 4.<br>
 Configuración de debian.<br>
 Iniciar máquina virtual.<br>
+![image](https://github.com/SmoshCH/Itca2/assets/84145465/98e296cc-68ba-4576-b173-929c205a9bc3)
 Escoger idioma.<br>
+![image](https://github.com/SmoshCH/Itca2/assets/84145465/dfd769f7-7a52-4d30-aa57-30281502d0a7)
 Escoger país.<br>
+![image](https://github.com/SmoshCH/Itca2/assets/84145465/f52f6f6a-69f2-4b2e-b442-165984d9eb64)
 Escoger teclado.<br>
+![image](https://github.com/SmoshCH/Itca2/assets/84145465/bb071ae8-fd50-4ce6-92cb-eb4452981ea5)
 Escoger nombre de máquina.<br>
+![image](https://github.com/SmoshCH/Itca2/assets/84145465/fb5620a5-acc4-4ae7-a2a3-71dd8f481c67)
 Dejar nombre de dominio en blanco.<br>
+![image](https://github.com/SmoshCH/Itca2/assets/84145465/babb097b-7c22-4f97-9efb-6ae690853f9f)
 Ingresar contraseñas.<br>
+![image](https://github.com/SmoshCH/Itca2/assets/84145465/0d00111f-8f39-4c3e-8924-8fa0bddd9dde)
 Escoger nombre de usuario.<br>
+![image](https://github.com/SmoshCH/Itca2/assets/84145465/d7681176-8117-4aad-81b1-f5210098d574)
 Escoger contraseña de usuario.<br>
+![image](https://github.com/SmoshCH/Itca2/assets/84145465/581f6c67-1640-4f05-921c-57ab0f12f5d8)
 Escoger particioado guiado.<br>
+![image](https://github.com/SmoshCH/Itca2/assets/84145465/d0f8db98-fc60-4edf-a897-5610bbe72158)
 Escoger disco y click en continuar.<br>
+![image](https://github.com/SmoshCH/Itca2/assets/84145465/ffa73060-b4f3-4090-9926-dd3497dd4461)
 Escoger todos los ficheros en una partición.<br>
 Click en finalizar particionado.<br>
 Click en si escirbir cambios a los discos.<br>
@@ -61,29 +72,6 @@ Continuar para reiniciar.<br>
 Escoger debian GNU/Linux.<br>
 Fin de proceso de instalación de linux.
 
-
-
-
-
-
-
-
-
-
-
-
-![image](https://github.com/SmoshCH/Itca2/assets/84145465/98e296cc-68ba-4576-b173-929c205a9bc3)
-![image](https://github.com/SmoshCH/Itca2/assets/84145465/dfd769f7-7a52-4d30-aa57-30281502d0a7)
-![image](https://github.com/SmoshCH/Itca2/assets/84145465/f52f6f6a-69f2-4b2e-b442-165984d9eb64)
-![image](https://github.com/SmoshCH/Itca2/assets/84145465/bb071ae8-fd50-4ce6-92cb-eb4452981ea5)
-![image](https://github.com/SmoshCH/Itca2/assets/84145465/fb5620a5-acc4-4ae7-a2a3-71dd8f481c67)
-![image](https://github.com/SmoshCH/Itca2/assets/84145465/babb097b-7c22-4f97-9efb-6ae690853f9f)
-![image](https://github.com/SmoshCH/Itca2/assets/84145465/0d00111f-8f39-4c3e-8924-8fa0bddd9dde)
-![image](https://github.com/SmoshCH/Itca2/assets/84145465/d7681176-8117-4aad-81b1-f5210098d574)
-![image](https://github.com/SmoshCH/Itca2/assets/84145465/581f6c67-1640-4f05-921c-57ab0f12f5d8)
-![image](https://github.com/SmoshCH/Itca2/assets/84145465/d0f8db98-fc60-4edf-a897-5610bbe72158)
-![image](https://github.com/SmoshCH/Itca2/assets/84145465/ffa73060-b4f3-4090-9926-dd3497dd4461)
-![image](https://github.com/SmoshCH/Itca2/assets/84145465/04804712-981b-4405-a7d3-cde43e2c9a03)
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/aef2dbf6-fbc7-4b56-9a23-8b85543623fc)
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/254904ab-30b9-4df8-8138-e66e5c8e8ccd)
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/a8d6f7ed-9584-4a81-aa52-5ea5f3328263)
