@@ -1,8 +1,8 @@
 # Installation and more
 
-# 1 - Instalación de virtual box 
+# 1 - Instalación de Debian en virtualBox.
 
-1. Instalación de VirtualBox [virtual box](https://www.virtualbox.org/wiki/Downloads), [video de referencia](https://www.youtube.com/watch?v=UC843sLW3As&ab_channel=FacultadAutodidacta)<br>
+1. Instalación de VirtualBox [virtualbox](https://www.virtualbox.org/wiki/Downloads), [video de referencia](https://www.youtube.com/watch?v=UC843sLW3As&ab_channel=FacultadAutodidacta)<br>
 Instalar VirtualBox desde su página, y dar click en siguiente a todo.<br>
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/9c5b34b9-d101-452d-95fd-90c45a643f79)
 
@@ -90,7 +90,7 @@ Fin de proceso de instalación de linux.
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/b9fe281f-041b-44c7-a348-9ef48c80a133)
 
 
-
+# 2 - Configuración de entorno de Debian.
 
 
 
