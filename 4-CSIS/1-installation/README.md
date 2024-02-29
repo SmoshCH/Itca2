@@ -57,16 +57,15 @@ Escoger particioado guiado.<br>
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/d0f8db98-fc60-4edf-a897-5610bbe72158)
 Escoger disco y click en continuar.<br>
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/ffa73060-b4f3-4090-9926-dd3497dd4461)
-Escoger todos los ficheros en una partición.<br
+Escoger todos los ficheros en una partición.<br>
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/e79a54a3-d1a3-4dec-a251-e8221ea737d1)
-
-
-![image](https://github.com/SmoshCH/Itca2/assets/84145465/aef2dbf6-fbc7-4b56-9a23-8b85543623fc)
 Click en finalizar particionado.<br>
-![image](https://github.com/SmoshCH/Itca2/assets/84145465/254904ab-30b9-4df8-8138-e66e5c8e8ccd)
+![image](https://github.com/SmoshCH/Itca2/assets/84145465/aef2dbf6-fbc7-4b56-9a23-8b85543623fc)
 Click en si escribir cambios a los discos.<br>
-![image](https://github.com/SmoshCH/Itca2/assets/84145465/a8d6f7ed-9584-4a81-aa52-5ea5f3328263)
+![image](https://github.com/SmoshCH/Itca2/assets/84145465/254904ab-30b9-4df8-8138-e66e5c8e8ccd)
 No analizar medios adicionales.<br>
+![image](https://github.com/SmoshCH/Itca2/assets/84145465/a8d6f7ed-9584-4a81-aa52-5ea5f3328263)
+
 Click no para réplica de red.<br>
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/04d94595-429c-4067-99f6-d251de114b5b)
 Gestor de paquetes (Alemania).<br>
