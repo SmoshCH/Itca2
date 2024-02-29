@@ -36,13 +36,13 @@ Click en aceptar.<br>
 - Paso 4.<br>
 Configuración de debian.<br>
 Iniciar máquina virtual.<br>
-![image](https://github.com/SmoshCH/Itca2/assets/84145465/98e296cc-68ba-4576-b173-929c205a9bc3)
+![image](https://github.com/SmoshCH/Itca2/assets/84145465/98e296cc-68ba-4576-b173-929c205a9bc3)<br>
 Escoger idioma.<br>
-![image](https://github.com/SmoshCH/Itca2/assets/84145465/dfd769f7-7a52-4d30-aa57-30281502d0a7)
+![image](https://github.com/SmoshCH/Itca2/assets/84145465/dfd769f7-7a52-4d30-aa57-30281502d0a7)<br>
 Escoger país.<br>
-![image](https://github.com/SmoshCH/Itca2/assets/84145465/f52f6f6a-69f2-4b2e-b442-165984d9eb64)
+![image](https://github.com/SmoshCH/Itca2/assets/84145465/f52f6f6a-69f2-4b2e-b442-165984d9eb64)<br>
 Escoger teclado.<br>
-![image](https://github.com/SmoshCH/Itca2/assets/84145465/bb071ae8-fd50-4ce6-92cb-eb4452981ea5)
+![image](https://github.com/SmoshCH/Itca2/assets/84145465/bb071ae8-fd50-4ce6-92cb-eb4452981ea5)<br>
 Escoger nombre de máquina.<br>
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/fb5620a5-acc4-4ae7-a2a3-71dd8f481c67)
 Dejar nombre de dominio en blanco.<br>
@@ -57,35 +57,37 @@ Escoger particioado guiado.<br>
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/d0f8db98-fc60-4edf-a897-5610bbe72158)
 Escoger disco y click en continuar.<br>
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/ffa73060-b4f3-4090-9926-dd3497dd4461)
-Escoger todos los ficheros en una partición.<br>
-Click en finalizar particionado.<br>
-Click en si escirbir cambios a los discos.<br>
-No analizar medios adicionales.<br>
-Gestor de paquetes (Alemania).<br>
-Escoger debian org.<br>
-Dejar info de proxy en blanco.<br>
-Responder No en encuesta.<br>
-Escoger GNOME y continuar.<br>
-Click en si para cargador de arranque.<br>
-click en el disco para cargador de arranque.<br>
-Continuar para reiniciar.<br>
-Escoger debian GNU/Linux.<br>
-Fin de proceso de instalación de linux.
-
+Escoger todos los ficheros en una partición.<br
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/aef2dbf6-fbc7-4b56-9a23-8b85543623fc)
+Click en finalizar particionado.<br>
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/254904ab-30b9-4df8-8138-e66e5c8e8ccd)
+Click en si escribir cambios a los discos.<br>
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/a8d6f7ed-9584-4a81-aa52-5ea5f3328263)
+No analizar medios adicionales.<br>
+Click no para réplica de red.<br>
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/04d94595-429c-4067-99f6-d251de114b5b)
+Gestor de paquetes (Alemania).<br>
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/132a1211-bd87-4d15-8114-49b2294d391c)
+Escoger deb.debian.org.<br>
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/f6d4ac57-1b24-4bf2-90ef-4ae2f0e12c14)
+Dejar info de proxy en blanco.<br>
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/23509ac1-3f4f-4da6-ae0b-a45e15025cbd)
+Responder No en encuesta.<br>
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/5ed7a2b4-11ce-4497-89d0-ab7b5f0abf63)
+Escoger Entorno de escritorio,GNOME,utilidades estándar y continuar.<br>
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/68c2fb86-2757-44b2-b20b-4cbff5cf96a0)
+Click en si para cargador de arranque GRUB.<br>
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/8afbd37f-a504-4b4b-af2e-4f93b397a2db)
+click en el disco para instalar cargador de arranque.<br>
+![image](https://github.com/SmoshCH/Itca2/assets/84145465/8afbd37f-a504-4b4b-af2e-4f93b397a2db)
+Continuar para reiniciar.<br>
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/995f7ceb-3b74-4680-902b-ed812c96a573)
+Escoger debian GNU/Linux.<br>
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/345439c1-64fc-421b-86e3-9b3853e367a3)
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/4fe4f07d-6807-4646-a4f6-e906b8f5561d)
+Fin de proceso de instalación de linux.
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/b9fe281f-041b-44c7-a348-9ef48c80a133)
+
 
 
 
