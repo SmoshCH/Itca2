@@ -37,7 +37,7 @@ Click en siguiente.<br>
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/48e4af1b-9d09-442f-bdf4-6df069e7951b)<br>
 Esperar proceso de terminado.<br>
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/2a3c9840-b7e2-4179-83fe-f36c41c312fb)<br>
-
+Fin de la instalación de Mongo DB.<br>
 
 
 
