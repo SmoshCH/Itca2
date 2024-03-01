@@ -2,7 +2,7 @@
 
 - Instalación de Mongo DB<br>
 
-1 Verificar si el puerto que utiliza Mongo DB (27017) esta disponible, Si no hay que cerrar proceso.<br>
+1. Verificar si el puerto que utiliza Mongo DB (27017) esta disponible, Si no hay que cerrar proceso.<br>
 
 ```cmd
 ::Verificar puertos utilizados 
