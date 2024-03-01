@@ -1,1 +1,8 @@
 # Installation and more
+
+![image](https://github.com/SmoshCH/Itca2/assets/84145465/05a8c06e-7f03-4d08-8618-4feb70f15015)
+
+![image](https://github.com/SmoshCH/Itca2/assets/84145465/a8422871-4287-4578-af26-1f36b5fadab4)
+![image](https://github.com/SmoshCH/Itca2/assets/84145465/b6d4cb67-0e86-4c36-9c0f-ad1ad88a07c3)
+![image](https://github.com/SmoshCH/Itca2/assets/84145465/3a01f2fe-f7a0-42df-899f-7106c7d79f0f)
+
