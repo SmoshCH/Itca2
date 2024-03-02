@@ -93,14 +93,10 @@ Fin de proceso de instalación de linux.
 # 2 - Configuración de entorno de Debian.
 
 
-# Installations and more 
 
-# Menu
-- [1- Debian](1-Debian12/README.md)
-- [2- ](2-/README.md)
-- [3- ](3-/README.md)
-- [4- ](4-/README.md)
-- [5- ](5-/README.md)
+
+
+
 
 
 
