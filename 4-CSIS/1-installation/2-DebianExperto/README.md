@@ -35,8 +35,32 @@ Click en aceptar.<br>
 
 - Paso 4.<br>
 Configuración de debian.<br>
-Iniciar máquina virtual.<br>
-![image](https://github.com/SmoshCH/Itca2/assets/84145465/98e296cc-68ba-4576-b173-929c205a9bc3)<br>
-
+Iniciar máquina virtual, Advanced options.<br>
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/957b872d-ef02-4a53-8656-8535d5416f3f)
+
+- Paso 5.<br>
+Hacer enter en expert install.<br>
+![image](https://github.com/SmoshCH/Itca2/assets/84145465/b5396072-0bf2-41e1-8568-1d2a18bb82d8)
+
+
+- Paso 5.<br>
+Hacer enter en expert install.<br>
+
+- Paso 5.<br>
+Hacer enter en expert install.<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
