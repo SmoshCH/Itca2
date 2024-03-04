@@ -2,7 +2,9 @@
 
 1. Instalación de Xampp [xampp](https://www.apachefriends.org/es/download.html)<br>
 
-2. Instalación de WordPress [](https://es.wordpress.org/download/#download-install)<br>
+2. Instalación de WordPress [Wordpress](https://es.wordpress.org/download/#download-install)<br>
+- Guía de instalación [GUÃ_A PRÃ_CTICA 2 INSTALACIÃ“N DE WORDPRESS.pdf](https://github.com/SmoshCH/Itca2/files/14481580/GUA_A.PRA_CTICA.2.INSTALACIA.N.DE.WORDPRESS.pdf)<br>
+
 
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/05a8c06e-7f03-4d08-8618-4feb70f15015)
 
