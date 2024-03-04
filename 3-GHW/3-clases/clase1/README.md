@@ -8,4 +8,3 @@ Guía de clase.<br>
 [Ejercicio PrÃ¡ctico #1.pdf](https://github.com/SmoshCH/Itca2/files/14456357/Ejercicio.PrA.ctico.1.pdf)<br>
 
 
-### Ejercicios de clase.
