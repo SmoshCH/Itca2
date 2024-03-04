@@ -1,22 +1,8 @@
-# Cheat sheets and more 
+# Classes and more 
 
-# Debian/Linux Cheat sheet.
-
-Aquí encontraremos links importantes: [OverApi](https://overapi.com/linux), <br>
-
-# Sintaxis básica de Debian/Linux.
-
-### Etiquetas de actualización
-```linux
-apt-get update
-apt-get upgrade
-apt-get install nombre_paquete
-apt-get remove nombre_paquete
-```
-### Comentarios
-
-| Listas ordenadas | Listas desordeandas |
-|------------------|---------------------|
-| ```- Item 1```   | ```1. Item 3```      |
-| ```- Item 2```   | ```2. Item 3```      |
-| ```- Item 3```   | ```3. Item 3```      |
+# Menu
+- [1- Debian/Linux](1-debian/README.md)
+- [2- clase2](clase2/README.md)
+- [3- clase3](clase3/README.md)
+- [4- clase4](clase4/README.md)
+- [5- clase5](clase5/README.md)
