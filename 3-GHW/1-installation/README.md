@@ -1,5 +1,9 @@
 # Installation and more
 
+1. Instalación de Xampp [xampp](https://www.apachefriends.org/es/download.html)<br>
+
+2. Instalación de WordPress [](https://es.wordpress.org/download/#download-install)<br>
+
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/05a8c06e-7f03-4d08-8618-4feb70f15015)
 
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/a8422871-4287-4578-af26-1f36b5fadab4)
