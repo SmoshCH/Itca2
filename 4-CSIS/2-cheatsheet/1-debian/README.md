@@ -6,17 +6,107 @@ Aquí encontraremos links importantes: [OverApi](https://overapi.com/linux), <br
 
 # Sintaxis básica de Debian/Linux.
 
-### Etiquetas de actualización
+### Actualización
 ```linux
 apt-get update
 apt-get upgrade
 apt-get install nombre_paquete
 apt-get remove nombre_paquete
 ```
-### Comentarios
+### Actualización
 
-| Listas ordenadas | Listas desordeandas |
-|------------------|---------------------|
-| ```- Item 1```   | ```1. Item 3```      |
-| ```- Item 2```   | ```2. Item 3```      |
-| ```- Item 3```   | ```3. Item 3```      |
+| Comando          | Descripción |
+|------------------|-------------|
+| `- Item 1`   | ```1. Item 3``` |
+| ```- Item 2```   | ```2. Item 3``` |
+| ```- Item 3```   | ```3. Item 3``` |
+| ```- Item 3```   | ```3. Item 3``` |
+| ```- Item 3```   | ```3. Item 3``` |
+| ```- Item 3```   | ```3. Item 3``` |
+| ```- Item 3```   | ```3. Item 3``` |
+| ```- Item 3```   | ```3. Item 3``` |
+| ```- Item 3```   | ```3. Item 3``` |
+
+### Comentario
+
+| Comando          | Descripción |
+|------------------|-------------|
+| ```- Item 1```   | ```1. Item 3``` |
+| ```- Item 2```   | ```2. Item 3``` |
+| ```- Item 3```   | ```3. Item 3``` |
+| ```- Item 3```   | ```3. Item 3``` |
+| ```- Item 3```   | ```3. Item 3``` |
+| ```- Item 3```   | ```3. Item 3``` |
+| ```- Item 3```   | ```3. Item 3``` |
+| ```- Item 3```   | ```3. Item 3``` |
+| ```- Item 3```   | ```3. Item 3``` |
+
+### Comentario
+
+| Comando          | Descripción |
+|------------------|-------------|
+| ```- Item 1```   | ```1. Item 3``` |
+| ```- Item 2```   | ```2. Item 3``` |
+| ```- Item 3```   | ```3. Item 3``` |
+| ```- Item 3```   | ```3. Item 3``` |
+| ```- Item 3```   | ```3. Item 3``` |
+| ```- Item 3```   | ```3. Item 3``` |
+| ```- Item 3```   | ```3. Item 3``` |
+| ```- Item 3```   | ```3. Item 3``` |
+| ```- Item 3```   | ```3. Item 3``` |
+
+### Comentario
+
+| Comando          | Descripción |
+|------------------|-------------|
+| ```- Item 1```   | ```1. Item 3``` |
+| ```- Item 2```   | ```2. Item 3``` |
+| ```- Item 3```   | ```3. Item 3``` |
+| ```- Item 3```   | ```3. Item 3``` |
+| ```- Item 3```   | ```3. Item 3``` |
+| ```- Item 3```   | ```3. Item 3``` |
+| ```- Item 3```   | ```3. Item 3``` |
+| ```- Item 3```   | ```3. Item 3``` |
+| ```- Item 3```   | ```3. Item 3``` |
+
+### Comentario
+
+| Comando          | Descripción |
+|------------------|-------------|
+| ```- Item 1```   | ```1. Item 3``` |
+| ```- Item 2```   | ```2. Item 3``` |
+| ```- Item 3```   | ```3. Item 3``` |
+| ```- Item 3```   | ```3. Item 3``` |
+| ```- Item 3```   | ```3. Item 3``` |
+| ```- Item 3```   | ```3. Item 3``` |
+| ```- Item 3```   | ```3. Item 3``` |
+| ```- Item 3```   | ```3. Item 3``` |
+| ```- Item 3```   | ```3. Item 3``` |
+
+### Comentario
+
+| Comando          | Descripción |
+|------------------|-------------|
+| ```- Item 1```   | ```1. Item 3``` |
+| ```- Item 2```   | ```2. Item 3``` |
+| ```- Item 3```   | ```3. Item 3``` |
+| ```- Item 3```   | ```3. Item 3``` |
+| ```- Item 3```   | ```3. Item 3``` |
+| ```- Item 3```   | ```3. Item 3``` |
+| ```- Item 3```   | ```3. Item 3``` |
+| ```- Item 3```   | ```3. Item 3``` |
+| ```- Item 3```   | ```3. Item 3``` |
+
+### Comentario
+
+| Comando          | Descripción |
+|------------------|-------------|
+| ```- Item 1```   | ```1. Item 3``` |
+| ```- Item 2```   | ```2. Item 3``` |
+| ```- Item 3```   | ```3. Item 3``` |
+| ```- Item 3```   | ```3. Item 3``` |
+| ```- Item 3```   | ```3. Item 3``` |
+| ```- Item 3```   | ```3. Item 3``` |
+| ```- Item 3```   | ```3. Item 3``` |
+| ```- Item 3```   | ```3. Item 3``` |
+| ```- Item 3```   | ```3. Item 3``` |
