@@ -17,96 +17,109 @@ apt-get remove nombre_paquete
 
 | Comando          | Descripción |
 |------------------|-------------|
-| `- Item 1`   | ```1. Item 3``` |
-| ```- Item 2```   | ```2. Item 3``` |
-| ```- Item 3```   | ```3. Item 3``` |
-| ```- Item 3```   | ```3. Item 3``` |
-| ```- Item 3```   | ```3. Item 3``` |
-| ```- Item 3```   | ```3. Item 3``` |
-| ```- Item 3```   | ```3. Item 3``` |
-| ```- Item 3```   | ```3. Item 3``` |
-| ```- Item 3```   | ```3. Item 3``` |
+| `apt-get update`   | Actualiza la lista de paquetes disponibles. |
+| `Item`   | hacer |
+| `Item`   | hacer |
+| `Item`   | hacer |
+| `Item`   | hacer |
+| `Item`   | hacer |
+| `Item`   | hacer |
+| `Item`   | hacer |
+| `Item`   | hacer |
 
-### Comentario
-
-| Comando          | Descripción |
-|------------------|-------------|
-| ```- Item 1```   | ```1. Item 3``` |
-| ```- Item 2```   | ```2. Item 3``` |
-| ```- Item 3```   | ```3. Item 3``` |
-| ```- Item 3```   | ```3. Item 3``` |
-| ```- Item 3```   | ```3. Item 3``` |
-| ```- Item 3```   | ```3. Item 3``` |
-| ```- Item 3```   | ```3. Item 3``` |
-| ```- Item 3```   | ```3. Item 3``` |
-| ```- Item 3```   | ```3. Item 3``` |
-
-### Comentario
+### Actualización
 
 | Comando          | Descripción |
 |------------------|-------------|
-| ```- Item 1```   | ```1. Item 3``` |
-| ```- Item 2```   | ```2. Item 3``` |
-| ```- Item 3```   | ```3. Item 3``` |
-| ```- Item 3```   | ```3. Item 3``` |
-| ```- Item 3```   | ```3. Item 3``` |
-| ```- Item 3```   | ```3. Item 3``` |
-| ```- Item 3```   | ```3. Item 3``` |
-| ```- Item 3```   | ```3. Item 3``` |
-| ```- Item 3```   | ```3. Item 3``` |
+| `Item`   | hacer |
+| `Item`   | hacer |
+| `Item`   | hacer |
+| `Item`   | hacer |
+| `Item`   | hacer |
+| `Item`   | hacer |
+| `Item`   | hacer |
+| `Item`   | hacer |
+| `Item`   | hacer |
 
-### Comentario
-
-| Comando          | Descripción |
-|------------------|-------------|
-| ```- Item 1```   | ```1. Item 3``` |
-| ```- Item 2```   | ```2. Item 3``` |
-| ```- Item 3```   | ```3. Item 3``` |
-| ```- Item 3```   | ```3. Item 3``` |
-| ```- Item 3```   | ```3. Item 3``` |
-| ```- Item 3```   | ```3. Item 3``` |
-| ```- Item 3```   | ```3. Item 3``` |
-| ```- Item 3```   | ```3. Item 3``` |
-| ```- Item 3```   | ```3. Item 3``` |
-
-### Comentario
+### Actualización
 
 | Comando          | Descripción |
 |------------------|-------------|
-| ```- Item 1```   | ```1. Item 3``` |
-| ```- Item 2```   | ```2. Item 3``` |
-| ```- Item 3```   | ```3. Item 3``` |
-| ```- Item 3```   | ```3. Item 3``` |
-| ```- Item 3```   | ```3. Item 3``` |
-| ```- Item 3```   | ```3. Item 3``` |
-| ```- Item 3```   | ```3. Item 3``` |
-| ```- Item 3```   | ```3. Item 3``` |
-| ```- Item 3```   | ```3. Item 3``` |
+| `Item`   | hacer |
+| `Item`   | hacer |
+| `Item`   | hacer |
+| `Item`   | hacer |
+| `Item`   | hacer |
+| `Item`   | hacer |
+| `Item`   | hacer |
+| `Item`   | hacer |
+| `Item`   | hacer |
 
-### Comentario
-
-| Comando          | Descripción |
-|------------------|-------------|
-| ```- Item 1```   | ```1. Item 3``` |
-| ```- Item 2```   | ```2. Item 3``` |
-| ```- Item 3```   | ```3. Item 3``` |
-| ```- Item 3```   | ```3. Item 3``` |
-| ```- Item 3```   | ```3. Item 3``` |
-| ```- Item 3```   | ```3. Item 3``` |
-| ```- Item 3```   | ```3. Item 3``` |
-| ```- Item 3```   | ```3. Item 3``` |
-| ```- Item 3```   | ```3. Item 3``` |
-
-### Comentario
+### Actualización
 
 | Comando          | Descripción |
 |------------------|-------------|
-| ```- Item 1```   | ```1. Item 3``` |
-| ```- Item 2```   | ```2. Item 3``` |
-| ```- Item 3```   | ```3. Item 3``` |
-| ```- Item 3```   | ```3. Item 3``` |
-| ```- Item 3```   | ```3. Item 3``` |
-| ```- Item 3```   | ```3. Item 3``` |
-| ```- Item 3```   | ```3. Item 3``` |
-| ```- Item 3```   | ```3. Item 3``` |
-| ```- Item 3```   | ```3. Item 3``` |
+| `Item`   | hacer |
+| `Item`   | hacer |
+| `Item`   | hacer |
+| `Item`   | hacer |
+| `Item`   | hacer |
+| `Item`   | hacer |
+| `Item`   | hacer |
+| `Item`   | hacer |
+| `Item`   | hacer |
+### Actualización
+
+| Comando          | Descripción |
+|------------------|-------------|
+| `Item`   | hacer |
+| `Item`   | hacer |
+| `Item`   | hacer |
+| `Item`   | hacer |
+| `Item`   | hacer |
+| `Item`   | hacer |
+| `Item`   | hacer |
+| `Item`   | hacer |
+| `Item`   | hacer |
+
+### Actualización
+
+| Comando          | Descripción |
+|------------------|-------------|
+| `Item`   | hacer |
+| `Item`   | hacer |
+| `Item`   | hacer |
+| `Item`   | hacer |
+| `Item`   | hacer |
+| `Item`   | hacer |
+| `Item`   | hacer |
+| `Item`   | hacer |
+| `Item`   | hacer |
+
+### Actualización
+
+| Comando          | Descripción |
+|------------------|-------------|
+| `Item`   | hacer |
+| `Item`   | hacer |
+| `Item`   | hacer |
+| `Item`   | hacer |
+| `Item`   | hacer |
+| `Item`   | hacer |
+| `Item`   | hacer |
+| `Item`   | hacer |
+| `Item`   | hacer |
+
+### Actualización
+
+| Comando          | Descripción |
+|------------------|-------------|
+| `Item`   | hacer |
+| `Item`   | hacer |
+| `Item`   | hacer |
+| `Item`   | hacer |
+| `Item`   | hacer |
+| `Item`   | hacer |
+| `Item`   | hacer |
+| `Item`   | hacer |
+| `Item`   | hacer |
