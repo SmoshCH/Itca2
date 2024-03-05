@@ -5,6 +5,10 @@
 
 1. Verificar si el puerto que utiliza Mongo DB (27017) esta disponible, Si no hay que cerrar proceso.<br>
 
+- Entrar a http://portquiz.net:27017/ , para ver si el puerto esta disponible, si esta disponible debara verse así.<br>
+![image](https://github.com/SmoshCH/Itca2/assets/84145465/1eb88ed8-3a79-43b4-8381-0d918b463ebc)<br>
+
+- Si no está disponible hay que cerrar el puerto con el siguiente proceso en el CMD<br>
 ```cmd
 ::Verificar puertos utilizados 
 netstat 
