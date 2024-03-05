@@ -1,6 +1,7 @@
 # Installation and more
 
-- Instalación de Mongo DB<br>
+- Instalación de Mongo DB, guia de instalación [Guia 2.pdf](https://github.com/SmoshCH/Itca2/files/14495551/Guia.2.pdf)<br>
+
 
 1. Verificar si el puerto que utiliza Mongo DB (27017) esta disponible, Si no hay que cerrar proceso.<br>
 
