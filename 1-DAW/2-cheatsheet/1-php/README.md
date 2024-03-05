@@ -1,5 +1,3 @@
-# Cheat sheets and more. 
-
 # PHP Cheat sheet.
 
 Aquí encontraremos links importantes: [OverApi](https://overapi.com/php), <br>

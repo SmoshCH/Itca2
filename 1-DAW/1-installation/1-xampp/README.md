@@ -1,4 +1,4 @@
-# Installation and more
+# Xampp Installation
 
 1. Instalación de XAMPP [XAMPP](https://www.apachefriends.org/es/index.html)<br>
 Instalar XAMPP desde su página, y dar click en siguiente a todo.<br>
