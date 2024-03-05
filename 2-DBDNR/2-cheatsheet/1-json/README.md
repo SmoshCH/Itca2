@@ -22,7 +22,9 @@ Aquí encontraremos links importantes: [json](https://www.json.org/json-en.html)
 }
 ```
 
-1- Claves
+- JSON no acepta comentarios.
+
+- Claves
 Las claves deben ir entre comillas dobles ", y seguidas de dos puntos :
 
 Los valores pueden ser de tipo string (entre comillas dobles), number, boolean, array (encerrados entre corchetes [] y separados por comas), o incluso otro objeto JSON.
