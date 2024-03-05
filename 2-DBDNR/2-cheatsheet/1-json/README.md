@@ -33,4 +33,21 @@ Los valores pueden ser de tipo string (entre comillas dobles), number, boolean, 
 - Objetos<br>
 Un objeto JSON se encierra entre llaves {}. <br>
 Dentro del objeto, los pares clave-valor están separados por comas ,. <br>
-Los objetos JSON pueden anidarse, como en el caso de la clave "direccion", que tiene otro objeto JSON anidado. 
+Los objetos JSON pueden anidarse, como en el caso de la clave "direccion", que tiene otro objeto JSON anidado.
+
+### Ejemplo
+
+ ```json
+{
+  "nombre": "Til",
+  "edad": 80,
+  "ciudad": "Oceano",
+  "casado": false,
+  "hobbies": ["comer", "leer", "viajar"],
+  "direccion": {
+    "calle": "Calle Principal",
+    "numero": 123,
+    "codigo_postal": "28001"
+  }
+}
+```
