@@ -24,13 +24,13 @@ Aquí encontraremos links importantes: [json](https://www.json.org/json-en.html)
 
 - JSON no acepta comentarios.
 
-- Claves
-Las claves deben ir entre comillas dobles ", y seguidas de dos puntos :
+- Claves <br>
+Las claves deben ir entre comillas dobles ", y seguidas de dos puntos : <br>
 
-Los valores pueden ser de tipo string (entre comillas dobles), number, boolean, array (encerrados entre corchetes [] y separados por comas), o incluso otro objeto JSON.
+- Tipo de datos <br>
+Los valores pueden ser de tipo string (entre comillas dobles), number, boolean, array (encerrados entre corchetes [] y separados por comas), o incluso otro objeto JSON. <br>
 
-Un objeto JSON se encierra entre llaves {}.
-Dentro del objeto, los pares clave-valor están separados por comas ,.
-
-
-Los objetos JSON pueden anidarse, como en el caso de la clave "direccion", que tiene otro objeto JSON anidado.
+- Objetos<br>
+Un objeto JSON se encierra entre llaves {}. <br>
+Dentro del objeto, los pares clave-valor están separados por comas ,. <br>
+Los objetos JSON pueden anidarse, como en el caso de la clave "direccion", que tiene otro objeto JSON anidado. 
