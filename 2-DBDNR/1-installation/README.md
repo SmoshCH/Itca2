@@ -17,7 +17,7 @@ netstat
 netstat -ano | findstr :27017
 
 ::Cierra la acción que tiene el puerto utilizado y lo deja libre.
-taskkill /F /PID 1234
+taskkill /F /PID ###(Escribir numero de PID)##
 ```
 <br>
 2. Descargar Mongo DB desde [Mongo DB](https://www.mongodb.com/try/download/community).<br>
