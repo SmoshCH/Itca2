@@ -7,12 +7,12 @@ Aquí encontraremos links importantes: [json](https://www.json.org/json-en.html)
 ```json
 {
   //Clave    Valor 
-  "nombre": "Juan",
-  "edad": 30,
-  "ciudad": "Madrid",
+  "nombre": "Til",
+  "edad": 80,
+  "ciudad": "Oceano",
   "casado": false,
   //Array
-  "hobbies": ["fútbol", "lectura", "viajar"],
+  "hobbies": ["comer", "leer", "viajar"],
   //Objeto
   "direccion": {
     "calle": "Calle Principal",
@@ -22,7 +22,7 @@ Aquí encontraremos links importantes: [json](https://www.json.org/json-en.html)
 }
 ```
 
-
+1- Claves
 Las claves deben ir entre comillas dobles ", y seguidas de dos puntos :
 
 Los valores pueden ser de tipo string (entre comillas dobles), number, boolean, array (encerrados entre corchetes [] y separados por comas), o incluso otro objeto JSON.
