@@ -67,6 +67,11 @@ Fin de la instalación de MongoDB shell<br>
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/f2ffa425-9e79-4a49-98fb-6692fdb90d97)<br>
 - Crar carpeta db adentro de carpeta Data<br>
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/05c8c778-77a5-4a53-b9dc-bc1e3a0878ed)<br>
+<br>
+- Agregación de variables de entorno.<br>
+
+  
+
 
 
 
