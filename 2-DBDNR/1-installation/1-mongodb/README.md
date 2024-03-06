@@ -32,11 +32,11 @@ Dar click en siguiente.<br>
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/c67a530f-90d8-4d52-b8a2-3cec631ed40b)<br>
 [X] Marcar en caja de aceptar terminos y condiciones, y dar en siguiente.<br>
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/9618848d-dacc-4c6f-a446-93bc1dfdb4b3)<br>
-Seleccionar custom, y click en next.<br>
+Seleccionar complete, y click en next.<br>
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/ed0356c8-3a84-4066-be35-4697b267a7a0)<br>
 Seleccionar next.<br>
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/e8fef84a-a19d-4ab7-a92e-d4880fd8435d)<br>
-[] Desactivar casilla Instal as a service, y dar click en next.<br> 
+[x] Marcar casilla Install as a service, y dar click en next.<br> 
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/bf1154ef-ba7e-474a-8d62-298eff780b52)<br>
 Click en siguiente.<br>
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/48e4af1b-9d09-442f-bdf4-6df069e7951b)<br>
@@ -44,7 +44,29 @@ Esperar proceso de terminado.<br>
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/2a3c9840-b7e2-4179-83fe-f36c41c312fb)<br>
 Fin de la instalación de Mongo DB.<br>
 
-3. Configuración de Mongo DB.<br>
+3. Descargar Shell para Mongo DB desde [MongoDB Shell](https://www.mongodb.com/try/download/shell).<br>
+
+Click en download<br>
+![image](https://github.com/SmoshCH/Itca2/assets/84145465/ce54ff7d-dbb1-4508-8308-1b3339417419)<br>
+Click izquierdo para descomprimir carpeta<br> 
+![image](https://github.com/SmoshCH/Itca2/assets/84145465/f3841706-2217-457b-a878-a2d0363dcf3d)<br>
+Cortar carpeta descomprimida<br>
+![image](https://github.com/SmoshCH/Itca2/assets/84145465/3e6dc5e5-5e0a-4b63-9c0a-9587c1f4abeb)<br>
+Pegar carpeta descomprimida en carpeta en DiscoC:/Archivos de Programa/MongoDB/Server<br>
+C:\Program Files\MongoDB\Server
+![image](https://github.com/SmoshCH/Itca2/assets/84145465/903b34f9-4586-4ec8-b722-6a42e450ab26)
+![image](https://github.com/SmoshCH/Itca2/assets/84145465/33e56855-64a2-4d95-8f1a-53cca321effe)
+![image](https://github.com/SmoshCH/Itca2/assets/84145465/96105f28-e289-4b0f-a929-ce45515de080)
+![image](https://github.com/SmoshCH/Itca2/assets/84145465/c17ed773-0a25-407d-9845-d80fe67488b5)
+
+
+
+
+
+
+
+
+Dar click en Select package.<br>
 
 
 
