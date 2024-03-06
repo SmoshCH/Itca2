@@ -71,14 +71,30 @@ Fin de la instalación de MongoDB shell<br>
 <br>
 
 - Agregación de variables de entorno.
-- Copiar direccion de carpeta bin de mongoDB.
+- Copiar direccion de carpeta bin de mongoDB.<br>
 C:\Program Files\MongoDB\Server\7.0\bin<br>
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/b8e64e90-d3ff-4f2d-b748-4b416762fc6b)
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/2056d997-bb96-4154-b372-d469d23e4b22)
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/6e542085-6ee0-41eb-8ad6-679c6c46b596)
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/7e467589-2259-42f6-803e-f1ead048080c)<br>
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/87592104-05ea-4bde-9449-76d9cce262e9)<br>
-C:\Program Files\MongoDB\Server\7.0\bin
+
+- Agregar variable de entorno Path de variables de usuario y de sistema.
+  Este equipo> propiedades> configuración avanzada de sistema> variables de entorno.<br>
+  Click izquierdo en carpeta Este equipo > propiedades.<br>
+  ![image](https://github.com/SmoshCH/Itca2/assets/84145465/1987a849-7272-4778-b0ad-84cd42aa164b)<br>
+  Click izquierdo en configuración avanzada de sistema.<br>
+  ![image](https://github.com/SmoshCH/Itca2/assets/84145465/3677292b-1b73-423a-b972-259d64bc781f)<br>
+  CLick en Variables de entorno.<br>
+  ![image](https://github.com/SmoshCH/Itca2/assets/84145465/672bd5cc-4b74-4c2c-8b60-113c69c2d9cb)
+  Doble click en path.<br>
+  ![image](https://github.com/SmoshCH/Itca2/assets/84145465/b63e9953-e107-4fa4-9d96-e8f2266073d0)
+
+
+
+  
+  
+
 
 
 
