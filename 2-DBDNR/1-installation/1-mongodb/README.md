@@ -86,9 +86,13 @@ C:\Program Files\MongoDB\Server\7.0\bin<br>
   Click izquierdo en configuración avanzada de sistema.<br>
   ![image](https://github.com/SmoshCH/Itca2/assets/84145465/3677292b-1b73-423a-b972-259d64bc781f)<br>
   CLick en Variables de entorno.<br>
-  ![image](https://github.com/SmoshCH/Itca2/assets/84145465/672bd5cc-4b74-4c2c-8b60-113c69c2d9cb)
-  Doble click en path.<br>
-  ![image](https://github.com/SmoshCH/Itca2/assets/84145465/b63e9953-e107-4fa4-9d96-e8f2266073d0)
+  ![image](https://github.com/SmoshCH/Itca2/assets/84145465/672bd5cc-4b74-4c2c-8b60-113c69c2d9cb)<br>
+  Dar Doble click en path.<br>
+  ![image](https://github.com/SmoshCH/Itca2/assets/84145465/b63e9953-e107-4fa4-9d96-e8f2266073d0)<br>
+  Dar doble click en un campo en blanco y pegar la direccion de bin y click en aceptar<br>
+C:\Program Files\MongoDB\Server\7.0\bin<br>
+  ![image](https://github.com/SmoshCH/Itca2/assets/84145465/b1ec2116-9f89-4a5e-a759-b2543bf1b6e9)
+
 
 
 
