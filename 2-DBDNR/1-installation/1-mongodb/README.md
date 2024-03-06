@@ -53,11 +53,13 @@ Click izquierdo para descomprimir carpeta<br>
 Cortar carpeta descomprimida<br>
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/3e6dc5e5-5e0a-4b63-9c0a-9587c1f4abeb)<br>
 Pegar carpeta descomprimida en carpeta en DiscoC:/Archivos de Programa/MongoDB/Server<br>
-C:\Program Files\MongoDB\Server
+C:\Program Files\MongoDB\Server<br>
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/903b34f9-4586-4ec8-b722-6a42e450ab26)
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/33e56855-64a2-4d95-8f1a-53cca321effe)
 ![image](https://github.com/SmoshCH/Itca2/assets/84145465/96105f28-e289-4b0f-a929-ce45515de080)
-![image](https://github.com/SmoshCH/Itca2/assets/84145465/c17ed773-0a25-407d-9845-d80fe67488b5)
+![image](https://github.com/SmoshCH/Itca2/assets/84145465/c17ed773-0a25-407d-9845-d80fe67488b5)<br>
+![image](https://github.com/SmoshCH/Itca2/assets/84145465/d0e07219-f48d-4471-a6cb-6ca534ecfc70)
+
 
 
 
