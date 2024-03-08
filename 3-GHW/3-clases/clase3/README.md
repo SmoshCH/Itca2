@@ -1,1 +1,16 @@
-# clase 3
+# Clase 3
+
+### Material de clase.
+Presentación de la clase.<br>
+[Semana#3.pdf](https://github.com/SmoshCH/Itca2/files/14538252/Semana.3.pdf)<br>
+
+Manual práctico.<br>
+[GUÃ_A PRÃ_CTICA 3 CREACIÃ“N DE BLOG Y SITIO WEB CON WORDPRESS.pdf](https://github.com/SmoshCH/Itca2/files/14538351/GUA_A.PRA_CTICA.3.CREACIA.N.DE.BLOG.Y.SITIO.WEB.CON.WORDPRESS.pdf)<br>
+
+Guía práctica 3.<br>
+[EJERCICIOS PRÃ_CTICOS SEMANA #3 GHW.pdf](https://github.com/SmoshCH/Itca2/files/14538366/EJERCICIOS.PRA_CTICOS.SEMANA.3.GHW.pdf)<br>
+
+Tarea clase.<br>
+[Ejercicio PrÃ¡ctico #1.pdf](https://github.com/SmoshCH/Itca2/files/14456357/Ejercicio.PrA.ctico.1.pdf)<br>
+
+
