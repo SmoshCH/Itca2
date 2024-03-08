@@ -35,8 +35,9 @@ Un objeto JSON se encierra entre llaves {}. <br>
 Dentro del objeto, los pares clave-valor están separados por comas ,. <br>
 Los objetos JSON pueden anidarse, como en el caso de la clave "direccion", que tiene otro objeto JSON anidado.
 
-### Ejemplo
+### Ejemplos
 
+-1 
  ```json
 {
   "nombre": "Til",
