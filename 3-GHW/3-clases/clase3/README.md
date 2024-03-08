@@ -10,6 +10,13 @@ Manual práctico.<br>
 Guía práctica 3.<br>
 [EJERCICIOS PRÃ_CTICOS SEMANA #3 GHW.pdf](https://github.com/SmoshCH/Itca2/files/14538366/EJERCICIOS.PRA_CTICOS.SEMANA.3.GHW.pdf)<br>
 
+Recursos de clase.<br>
+[Temas de WordPress](https://wordpress.org/themes/)<br>
+[Pluggins de WordPress](https://wordpress.org/plugins/)<br>
+[Temas gratis](https://www.youtube.com/watch?v=WiCxBtJNdAQ&t=2s&ab_channel=DarrelWilson)<br>
+
+
+
 Tarea clase.<br>
 [Ejercicio PrÃ¡ctico #1.pdf](https://github.com/SmoshCH/Itca2/files/14456357/Ejercicio.PrA.ctico.1.pdf)<br>
 
